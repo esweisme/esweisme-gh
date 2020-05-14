@@ -7,5 +7,5 @@ var xhttp = new XMLHttpRequest();
 
       }
   };
-  xhttp.open("GET", "ajax/kategori.php?keyword=" + keyword.value, true);
+  xhttp.open("GET", "https://sigitwahyudi.web.id/ajax/kategori.php", true);
   xhttp.send();
