@@ -3,7 +3,7 @@ var xhttp = new XMLHttpRequest();
       if (this.readyState == 4 && this.status == 200) {
          var data=JSON.parse(xhttp.responseText);
          data.forEach(function(element) {
-      document.getElementById("tempat").innerHTML +="nama :" + element.nama + "<br>Alamat :" + element.alamat + "<br>Alamat :" + element.alamat + "<br><br>";
+      document.getElementById("tempat").innerHTML +="nama :" + element.nama + "<br>Alamat :" + element.alamat;
     });
       }
   };
