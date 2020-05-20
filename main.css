@@ -14,7 +14,7 @@ html,body {
   	justify-content: center;
   	align-items: center;
 
-  	background-image: url("bg.jpg"); /* The image used */
+  	background-image: url("../img/bg.jpg"); /* The image used */
   	background-color: #cccccc; /* Used if the image is unavailable */
   	background-position: center; /* Center the image */
   	background-repeat: no-repeat; /* Do not repeat the image */
