@@ -1,11 +1,11 @@
-body {
-	margin : 0px;
-
+html,body {
+  height : 100%;
+  margin : 0px;
 }
 
 
 .modal {
-	min-height: 610px;
+	min-height: 100%;
 }
 
 .modal:nth-child(odd){
@@ -56,4 +56,21 @@ p.brand {
 	margin-top: 2px;
 	font-size: 1.7em;
 	
+}
+
+@media screen and (max-width: 480px) { 
+
+	p.nama {
+	
+	font-size: 1.5em;
+	
+}
+
+p.brand {
+	
+	margin-top: 1px;
+	
+	
+}
+
 }
