@@ -1,6 +1,6 @@
 /* Text Glitch Langsung */
 p.hobbyteknoGlitch {
-  color: #000;
+  color: #CDB8B8;
   position: relative;
   animation: hobbyteknoGlitch1 2.5s infinite;
   -moz-animation: hobbyteknoGlitch1 2.5s infinite;
@@ -16,14 +16,14 @@ p.hobbyteknoGlitch:before,  p.hobbyteknoGlitch:after {
   bottom: 0px;
 }
 p.hobbyteknoGlitch:before {
-  color: #EE40F0;
+  color: #E3ECF5;
   animation: hobbyteknoGlitch2 2.5s infinite;
   -moz-animation: hobbyteknoGlitch2 2.5s infinite;
   -webkit-animation: hobbyteknoGlitch2 2.5s infinite;
   -o-animation: hobbyteknoGlitch2 2.5s infinite;
 }
 p.hobbyteknoGlitch:after {
-  color: #F9104C;
+  color: #ACCED6;
   animation: hobbyteknoGlitch3 2.5s infinite;
   -moz-animation: hobbyteknoGlitch3 2.5s infinite;
   -webkit-animation: hobbyteknoGlitch3 2.5s infinite;

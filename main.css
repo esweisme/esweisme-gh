@@ -1,11 +1,43 @@
+body {
+	margin : 0px;
+
+}
+
+
+.modal {
+	min-height: 610px;
+}
+
+.modal:nth-child(odd){
+	background-color: #ECE9E8;
+}
+.modal:nth-child(even){
+	background-color: coral;
+}
+
+
+
 .modal1 {
-	min-height: 450px;
+	
 	display: flex;
   	justify-content: center;
   	align-items: center;
+
+  	background-image: url("bg.jpg"); /* The image used */
+  	background-color: #cccccc; /* Used if the image is unavailable */
+  	background-position: center; /* Center the image */
+  	background-repeat: no-repeat; /* Do not repeat the image */
+  	background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.modal2 {
+
+	background-image: linear-gradient(red, yellow, green);	
+
 }
 
 .isiModal1 {
+
 	
 }
 
@@ -14,79 +46,14 @@
 }
 
 p.nama {
-	color: #6F69E9;
+	color: #F795F0;
 	font-size: 2.5em;
 	margin-bottom: 0px;
 }
 
 p.brand {
+	color : #DFDADA;
 	margin-top: 2px;
 	font-size: 1.7em;
 	
-}
-
-.text_1 {
-  animation: text1;
-}
-.text_2 {
-  animation: text2;
-}
-.text_3 {
-  animation: text3;
-}
-.text_1, .text_2, .text_3 {
-  overflow: hidden;
-  white-space: nowrap;
-  display: inline-block;
-  position: relative;
-  animation-duration: 15s;
-  animation-timing-function: steps(15, end);
-  animation-iteration-count: infinite;
-}
-.text_1::after, .text_2::after, .text_3::after {
-  content: "|";
-  position: absolute;
-  right: 0;
-  animation: caret infinite;
-  animation-duration: 1s;
-  animation-timing-function: steps(2, end);
-}
-
-@keyframes text3 {
-  0%, 50%, 100% {
-    width: 0;
-  }
-  10%, 40% {
-    width: 8em;
-  }
-}
-
-@keyframes text2 {
-  0%, 50%, 100% {
-    width: 0;
-  }
-  
-  60%, 90% {
-    width: 5em;
-  }
-}
-
-@keyframes text1 {
-  0%, 50%, 100% {
-    width: 0;
-  }
-  10%, 40% {
-    width: 8em;
-  }
-}
-
-
-
-@keyframes caret {
-  0%, 100% {
-    opacity: 0;
-  }
-  50% {
-    opacity: 1;
-  }
 }

@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="main.css">
 	<link rel="stylesheet" type="text/css" href="glitch.css">
 
@@ -9,18 +10,26 @@
 </head>
 <body>
 
-	<div class="modal1">
+	<div class="modal modal1">
 		
 		<div class="isiModal1">
 			<p class="nama hobbyteknoGlitch" data-text="Sigit Wahyudi" >Sigit Wahyudi</p>
+			
 			<p class="brand">
-				<span class="text_1">programmer</span>
-				<span class="text_2">blogger</span>
-				<!-- <span class="text_3">HUMAN</span> --></p>
-
+				<span class="text"></span>
+			</p>
 		</div>
 
 	</div>
+
+<script src='core-typewrite.js'></script>
+  <script type="text/javascript">
+    const instance = new Typewriter('.text', {
+      strings: ['Programmer', 'Blogger'],
+      autoStart: true,
+      loop: true,
+    });
+  </script>
 
 </body>
 </html>
