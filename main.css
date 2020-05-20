@@ -8,15 +8,6 @@ html,body {
 	min-height: 100%;
 }
 
-.modal:nth-child(odd){
-	background-color: #ECE9E8;
-}
-.modal:nth-child(even){
-	background-color: coral;
-}
-
-
-
 .modal1 {
 	
 	display: flex;
@@ -28,17 +19,6 @@ html,body {
   	background-position: center; /* Center the image */
   	background-repeat: no-repeat; /* Do not repeat the image */
   	background-size: cover; /* Resize the background image to cover the entire container */
-}
-
-.modal2 {
-
-	background-image: linear-gradient(red, yellow, green);	
-
-}
-
-.isiModal1 {
-
-	
 }
 
 .isiModal1 p {
@@ -64,13 +44,12 @@ p.brand {
 	
 	font-size: 1.7em;
 	
-}
+	}
 
-p.brand {
+	p.brand {
 	
 	font-size: 1.2em;
 	
-	
-}
+	}
 
 }
