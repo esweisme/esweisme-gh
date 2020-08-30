@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Kesempatan Kedua new"
+theme = "second"
+[Params]
+twitter = "https://www.twitter.com/eswetwit"
