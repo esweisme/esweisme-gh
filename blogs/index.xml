@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Kesempatan Kedua new</title>
+    <link>http://example.org/blogs/</link>
+    <description>Recent content in Blogs on Kesempatan Kedua new</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Aug 2020 14:28:39 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/blogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Catatan Pertama</title>
+      <link>http://example.org/blogs/catatan-pertama/</link>
+      <pubDate>Fri, 28 Aug 2020 14:28:39 +0800</pubDate>
+      
+      <guid>http://example.org/blogs/catatan-pertama/</guid>
+      <description>ini contoh file kedua catatan</description>
+    </item>
+    
+    <item>
+      <title>Belajar Hugo</title>
+      <link>http://example.org/blogs/belajar-hugo/</link>
+      <pubDate>Fri, 28 Aug 2020 14:17:15 +0800</pubDate>
+      
+      <guid>http://example.org/blogs/belajar-hugo/</guid>
+      <description>ini adalah file pertama tentang hugo</description>
+    </item>
+    
+  </channel>
+</rss>
