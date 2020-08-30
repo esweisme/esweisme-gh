@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>hari minggu belajar hugo dan forestry</title>
+      <link>https://esweisme.github.io/blogs/hari-minggu-belajar-hugo-dan-forestry/</link>
+      <pubDate>Sat, 29 Aug 2020 16:00:00 +0000</pubDate>
+      
+      <guid>https://esweisme.github.io/blogs/hari-minggu-belajar-hugo-dan-forestry/</guid>
+      <description>ini pake forestry lalu di pull dulu. baru deploy.sh</description>
+    </item>
+    
+    <item>
       <title>Kontak</title>
       <link>https://esweisme.github.io/kontak/</link>
       <pubDate>Fri, 28 Aug 2020 14:48:06 +0800</pubDate>
