@@ -6,10 +6,19 @@
     <description>Recent content in Catatans on Kesempatan Kedua new</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2020 16:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2020 04:03:00 +0000</lastBuildDate>
     
 	<atom:link href="https://esweisme.github.io/catatan/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>coba dengan gambar</title>
+      <link>https://esweisme.github.io/catatan/coba-dengan-gambar/</link>
+      <pubDate>Sun, 30 Aug 2020 04:03:00 +0000</pubDate>
+      
+      <guid>https://esweisme.github.io/catatan/coba-dengan-gambar/</guid>
+      <description>coba gambar jek</description>
+    </item>
     
     <item>
       <title>catatan dengan forestry</title>
