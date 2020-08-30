@@ -2,48 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kesempatan Kedua new</title>
-    <link>http://example.org/</link>
+    <link>https://esweisme.github.io/</link>
     <description>Recent content on Kesempatan Kedua new</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Aug 2020 14:39:05 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://esweisme.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kontak</title>
-      <link>http://example.org/kontak/</link>
+      <link>https://esweisme.github.io/kontak/</link>
       <pubDate>Fri, 28 Aug 2020 14:48:06 +0800</pubDate>
       
-      <guid>http://example.org/kontak/</guid>
+      <guid>https://esweisme.github.io/kontak/</guid>
       <description>Hubungi saya pada twitter saya @eswetwit</description>
     </item>
     
     <item>
       <title>Buku</title>
-      <link>http://example.org/catatan/buku/</link>
+      <link>https://esweisme.github.io/catatan/buku/</link>
       <pubDate>Fri, 28 Aug 2020 14:39:05 +0800</pubDate>
       
-      <guid>http://example.org/catatan/buku/</guid>
-      <description>catatan pertama saya pada web ini</description>
+      <guid>https://esweisme.github.io/catatan/buku/</guid>
+      <description>catatan pertama saya pada web ini
+by forestry</description>
     </item>
     
     <item>
       <title>Catatan Pertama</title>
-      <link>http://example.org/blogs/catatan-pertama/</link>
+      <link>https://esweisme.github.io/blogs/catatan-pertama/</link>
       <pubDate>Fri, 28 Aug 2020 14:28:39 +0800</pubDate>
       
-      <guid>http://example.org/blogs/catatan-pertama/</guid>
+      <guid>https://esweisme.github.io/blogs/catatan-pertama/</guid>
       <description>ini contoh file kedua catatan</description>
     </item>
     
     <item>
       <title>Belajar Hugo</title>
-      <link>http://example.org/blogs/belajar-hugo/</link>
+      <link>https://esweisme.github.io/blogs/belajar-hugo/</link>
       <pubDate>Fri, 28 Aug 2020 14:17:15 +0800</pubDate>
       
-      <guid>http://example.org/blogs/belajar-hugo/</guid>
+      <guid>https://esweisme.github.io/blogs/belajar-hugo/</guid>
       <description>ini adalah file pertama tentang hugo</description>
     </item>
     

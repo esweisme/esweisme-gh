@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>js on Kesempatan Kedua new</title>
-    <link>http://example.org/tags/js/</link>
+    <link>https://esweisme.github.io/tags/js/</link>
     <description>Recent content in js on Kesempatan Kedua new</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Aug 2020 14:17:15 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/js/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://esweisme.github.io/tags/js/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Belajar Hugo</title>
-      <link>http://example.org/blogs/belajar-hugo/</link>
+      <link>https://esweisme.github.io/blogs/belajar-hugo/</link>
       <pubDate>Fri, 28 Aug 2020 14:17:15 +0800</pubDate>
       
-      <guid>http://example.org/blogs/belajar-hugo/</guid>
+      <guid>https://esweisme.github.io/blogs/belajar-hugo/</guid>
       <description>ini adalah file pertama tentang hugo</description>
     </item>
     
