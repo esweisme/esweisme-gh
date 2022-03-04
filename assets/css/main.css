@@ -1,29 +1,43 @@
-html,body {
-  height : 100%;
-  margin : 0px;
+html, body {
+	
+  	height : 100%;
+  	margin : 0px;
 }
 
+body {
+	background-image: url("../img/bg.jpg"); /* The image used */
+	background-color: #cccccc; /* Used if the image is unavailable */
+	background-position: center; /* Center the image */
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover; /* Resize the background image to cover the entire container */
+}
 
 .modal {
 	min-height: 100%;
 }
 
 .modal1 {
-	
 	display: flex;
   	justify-content: center;
   	align-items: center;
-
-  	background-image: url("../img/bg.jpg"); /* The image used */
-  	background-color: #cccccc; /* Used if the image is unavailable */
-  	background-position: center; /* Center the image */
-  	background-repeat: no-repeat; /* Do not repeat the image */
-  	background-size: cover; /* Resize the background image to cover the entire container */
 }
 
 .isiModal1 p {
 	text-align: center;
 }
+
+.isiModal1 a{
+	text-align: center;
+	font-size: 20px;
+	color: #fae73d;
+	text-decoration: none;
+}
+
+.isiModal1 a:visited{
+	color: #fae73d;
+}
+
+
 
 p.nama {
 	color: #F795F0;
