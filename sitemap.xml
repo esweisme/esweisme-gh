@@ -12,22 +12,57 @@
   </url>
    
   <url>
-    <loc>https://esweisme.github.io/space/catatan/</loc>
-    <lastmod>2022-08-17T02:56:50+00:00</lastmod>
+    <loc>https://esweisme.github.io/space/tags/anydesk/</loc>
+    <lastmod>2022-10-27T21:41:36+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+    
+  <url>
+    <loc>https://esweisme.github.io/space/anydesk-auto-start-ubuntu/</loc>
+    <lastmod>2022-10-27T21:41:36+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
     
   <url>
     <loc>https://esweisme.github.io/space/categories/catatan/</loc>
-    <lastmod>2022-08-17T02:56:50+00:00</lastmod>
+    <lastmod>2022-10-27T21:41:36+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+    
+  <url>
+    <loc>https://esweisme.github.io/space/catatan/</loc>
+    <lastmod>2022-10-27T21:41:36+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
     
   <url>
     <loc>https://esweisme.github.io/space/categories/</loc>
-    <lastmod>2022-08-17T02:56:50+00:00</lastmod>
+    <lastmod>2022-10-27T21:41:36+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+    
+  <url>
+    <loc>https://esweisme.github.io/space/</loc>
+    <lastmod>2022-10-27T21:41:36+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+    
+  <url>
+    <loc>https://esweisme.github.io/space/tags/</loc>
+    <lastmod>2022-10-27T21:41:36+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+    
+  <url>
+    <loc>https://esweisme.github.io/space/tags/ubuntu/</loc>
+    <lastmod>2022-10-27T21:41:36+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -55,13 +90,6 @@
     
   <url>
     <loc>https://esweisme.github.io/space/tags/gitignore/</loc>
-    <lastmod>2022-08-17T02:56:50+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-    
-  <url>
-    <loc>https://esweisme.github.io/space/tags/</loc>
     <lastmod>2022-08-17T02:56:50+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -110,13 +138,6 @@
   </url>
     
   <url>
-    <loc>https://esweisme.github.io/space/tags/ubuntu/</loc>
-    <lastmod>2022-03-06T05:39:16+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-    
-  <url>
     <loc>https://esweisme.github.io/space/tags/webmin/</loc>
     <lastmod>2022-03-06T05:39:16+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -145,13 +166,6 @@
   </url>
     
   <url>
-    <loc>https://esweisme.github.io/space/</loc>
-    <lastmod>2022-02-12T08:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-    
-  <url>
     <loc>https://esweisme.github.io/space/sosial-media/</loc>
     <lastmod>2022-02-12T08:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -159,14 +173,14 @@
   </url>
     
   <url>
-    <loc>https://esweisme.github.io/space/blog/</loc>
+    <loc>https://esweisme.github.io/space/categories/blog/</loc>
     <lastmod>2021-12-17T11:17:28+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
     
   <url>
-    <loc>https://esweisme.github.io/space/categories/blog/</loc>
+    <loc>https://esweisme.github.io/space/blog/</loc>
     <lastmod>2021-12-17T11:17:28+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
